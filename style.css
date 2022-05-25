@@ -1890,9 +1890,27 @@ ul.black-doted {
     background: url(images/樂齡公司/smart-LOGO-3.png) no-repeat center;
 }
 
+#plant_up #plant_down {
+    background: url(images/植享/logo.png) no-repeat center;
+}
+#get_up #get_down {
+    background: url(images/捷起報甘/捷起_logo.jpg) no-repeat center;
+}
+#BR_up #BR_down {
+    background: url(images/BRowvillage/BRowvillage_logo.jpg) no-repeat center;
+}
+#drink_up #drink_down{
+    background: url(images/同癮/同癮_logo.jpg) no-repeat center;
+}
+
+/*
+#plant_up #plant_down {
+    background: url(images/植享/logo.png) no-repeat center;
+}
+*/
 .about-heading,
 .team-heading {
-    margin-top: 80px;
+    margin-top: 60px;
     text-align: center;
 }
 

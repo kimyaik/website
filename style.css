@@ -333,8 +333,8 @@ a:hover, a:active {
 # Hero Section
 --------------------------------------------------------------*/
 .hero-content {
-    background: url("images/hero-bg.jpg") no-repeat center;
-    background-size: cover;
+    background: url("images/創業中心/110學年競賽優勝照片2_1.jpg") no-repeat center;
+    background-size: auto;
 }
 
 .hero-content-overlay {
@@ -1158,7 +1158,8 @@ a.btn:hover {
 }
 
 .courses-page .page-header {
-    background: url("images/courses-header.jpg") no-repeat center;
+    background: url(images/創業中心/110學年競賽優勝照片2_1.jpg) no-repeat center;
+    background-size: contain;
 }
 
 .page-header-overlay {
@@ -1445,7 +1446,8 @@ a.btn:hover {
 # Single Courses Page
 --------------------------------------------------------------*/
 .single-courses-page .page-header {
-    background: url("images/single-courses-bg.jpg") no-repeat center;
+    background: url("images/創業中心/110學年競賽優勝照片2_1.jpg") no-repeat center;
+    background-size: contain;
 }
 
 .single-courses-page .page-header-overlay {
@@ -2028,7 +2030,8 @@ ul.black-doted {
 # Blog Page
 --------------------------------------------------------------*/
 .blog-page .page-header {
-    background: url("images/courses-header.jpg") no-repeat center;
+    background: url(images/創業中心/110學年競賽優勝照片2_1.jpg) no-repeat center;
+    background-size: contain;
 }
 
 .blog-posts {
@@ -2117,7 +2120,8 @@ ul.black-doted {
 # Single Blog Post
 --------------------------------------------------------------*/
 .single-blog-post .page-header {
-    background: url("images/single-courses-bg.jpg") no-repeat center;
+    background: url("images/創業中心/110學年競賽優勝照片2_1.jpg") no-repeat center;
+    background-size: contain;
 }
 
 .single-blog-post .page-header-overlay {
@@ -2519,7 +2523,8 @@ ul.author-social-profile li:hover .fa {
 # Contact Page
 --------------------------------------------------------------*/
 .contact-page .page-header {
-    background: url(images/courses-header.jpg) no-repeat center;
+    background: url(images/創業中心/110學年競賽優勝照片2_1.jpg) no-repeat center;
+    background-size: contain;
 }
 
 .contact-page .contact-gmap {

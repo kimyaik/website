@@ -1158,13 +1158,14 @@ a.btn:hover {
 }
 
 .courses-page .page-header {
-    background: url(images/創業中心/110學年競賽優勝照片2_1.jpg) no-repeat center;
-    background-size: contain;
+    background: url(images/創業中心/團隊介紹使用照片.jpg) no-repeat center;
+    height: 800px;
+    background-size: auto;
 }
 
 .page-header-overlay {
     background: rgba(21,20,33,.5);
-    height: 390px;
+    height: 800px;
     padding-top: 236px;
 }
 
@@ -2524,7 +2525,8 @@ ul.author-social-profile li:hover .fa {
 --------------------------------------------------------------*/
 .contact-page .page-header {
     background: url(images/創業中心/110學年競賽優勝照片2_1.jpg) no-repeat center;
-    background-size: contain;
+    
+    background-size: auto;
 }
 
 .contact-page .contact-gmap {

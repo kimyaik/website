@@ -1157,8 +1157,17 @@ a.btn:hover {
     background-size: cover !important;
 }
 
+.video-other {
+    background-size: cover !important;
+}
+
 .courses-page .page-header {
     background: url(images/創業中心/團隊介紹使用照片.jpg) no-repeat center;
+    height: 800px;
+    background-size: auto;
+}
+.video-page .video-other {
+    background: url(images/創業中心/創業競賽封面.jpg) no-repeat center;
     height: 800px;
     background-size: auto;
 }

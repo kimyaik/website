@@ -542,13 +542,13 @@ a:hover, a:active {
 .course-thumbnail {
     width: 100%;
     margin: 0;
-    object-fit: cover;
+    object-fit: fill;
 }
 
 .course-thumbnail img {
     display: block;
     width: 100%;
-    object-fit: cover;
+    object-fit: fill;
 }
 
 .course-content-wrap {
